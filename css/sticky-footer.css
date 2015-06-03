@@ -1,0 +1,7 @@
+/* Set the fixed height of the footer here */
+#footerx {
+/*  height: 100px;*/
+  padding-bottom: 0px;
+  margin: 0px;
+  background-color: #E6E6E6;
+}
